@@ -9,11 +9,12 @@ This is meant as a way to aggregate multiple blocklists into one. In no way am I
 2. Navigate to Settings>Blocklist
 3. Scroll down and copy the Lists from below that you would like to use:
 ```
-https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Primary%20Blocklist.txt?token=AG7JK7OH6PDYPYWDVJDJTWK5CAU36
-https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Extended%20Primary%20Blocklist.txt?token=AG7JK7O4QOCSM5TLQVBWUMS5CAU7G
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt?token=AG7JK7JXOUUEVO6FUNSNUZK5CAWHU
+https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt?token=AG7JK7PSKLWXHQL24BFXOUS5CAWJS
+
 ```
-- [List 1:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Primary%20Blocklist.txt?token=AG7JK7OH6PDYPYWDVJDJTWK5CAU36) Contains domains from WaLLy3K over at https://firebog.net. All of these Domains are considered least likely to interfere with browsing.
-- [List 2:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Extended%20Primary%20Blocklist.txt?token=AG7JK7O4QOCSM5TLQVBWUMS5CAU7G) Contains domains from WaLLy3K over at https://firebog.net. These domains are likely to block multiple useful sites (e.g: Pi-hole updates, Amazon, Netflix). Please note that this can interfere with many normal, non-ad related features on devices. (For advance users)
+- [List 1:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt?token=AG7JK7JXOUUEVO6FUNSNUZK5CAWHU) Contains domains from WaLLy3K over at https://firebog.net. All of these Domains are considered least likely to interfere with browsing.
+- [List 2:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt?token=AG7JK7PSKLWXHQL24BFXOUS5CAWJS) Contains domains from WaLLy3K over at https://firebog.net. These domains are likely to block multiple useful sites (e.g: Pi-hole updates, Amazon, Netflix). Please note that this can interfere with many normal, non-ad related features on devices. (For advance users)
 
 ---
 
