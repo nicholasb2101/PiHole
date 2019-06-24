@@ -20,10 +20,10 @@ This is meant as a way to aggregate multiple blocklists into one. In no way am I
 
 ## To Do
 
-[x] Primary Blocklist  
-[x] Extended Primary Blocklist
-[x] Primary Whitelist
-[ ] Secondary Blocklist 
+- [x] Primary Blocklist  
+- [x] Extended Primary Blocklist
+- [x] Primary Whitelist
+- [ ] Secondary Blocklist 
 
 ---
 
