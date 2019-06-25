@@ -12,12 +12,12 @@ This is meant as a way to aggregate multiple blocklists into one. It contains ap
 List 1: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt
 List 2: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt
 List 3: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt
-List 4: (Work in Progress)
+List 4: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt
 ```
-- [List 1:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt?token=AG7JK7JXOUUEVO6FUNSNUZK5CAWHU) Contains domains from WaLLy3K over at https://firebog.net. All of these Domains are considered least likely to interfere with browsing.
-- [List 2:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt?token=AG7JK7PSKLWXHQL24BFXOUS5CAWJS) Contains domains from WaLLy3K over at https://firebog.net. These domains are likely to block multiple useful sites (e.g: Pi-hole updates, Amazon, Netflix). Please note that this can interfere with many normal, non-ad related features on devices. (For advance users)
+- [List 1:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt) Contains domains from WaLLy3K over at https://firebog.net. All of these Domains are considered least likely to interfere with browsing.
+- [List 2:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt) Contains domains from WaLLy3K over at https://firebog.net. These domains are likely to block multiple useful sites (e.g: Pi-hole updates, Amazon, Netflix). Please note that this can interfere with many normal, non-ad related features on devices. (For advance users)
 - [List 3:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt) Contains domains gathered from The Blocklist Project (includes lists from: ads, fraud, fakenews, malware, phishing, porn, ransomware, redirect, scam, spam, and tracking)
-- [List 4:](https://github.com/nicholasb2101/PiHole) Work in Progress, Will update soon.
+- [List 4:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt) Contains other domains gathered from various locations and through personal trial and error. These block things including Malware, Phising, Tracking, and Ads.
 ---
 
 ## To Do
@@ -26,7 +26,7 @@ List 4: (Work in Progress)
 - [x] Extended Primary Blocklist (List 2)
 - [x] Primary Whitelist
 - [x] Secondary Blocklist (List 3)
-- [ ] Tertiary Blocklist (List 4) [Work in Progress]
+- [x] Tertiary Blocklist (List 4)
 - [ ] User requested lists
 
 ---
