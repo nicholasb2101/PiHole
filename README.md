@@ -1,6 +1,6 @@
 # Pi-Hole
 
-This is meant as a way to aggregate multiple blocklists into one. In no way am I the original creator of these lists and nor do I claim to be, I have only combined ones I felt have been useful and/or ones that I personally use. All lists (or where they can be found) will be linked below. Please make sure to utilize the provided white-list regardless of if you use the Extended Primary Blocklist.
+This is meant as a way to aggregate multiple blocklists into one. It contains approximately 2 Million Blacklisted domains. In no way am I the original creator of these lists and nor do I claim to be, I have only combined ones I felt have been useful and/or ones that I personally use. All lists (or where they can be found) will be linked below. Please make sure to utilize the provided white-list regardless of if you use the Extended Primary Blocklist.
 
 ---
 
