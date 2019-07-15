@@ -8,6 +8,7 @@ This is meant as a way to aggregate multiple blocklists into one. It contains ap
 1. Log on to the Pi-Hole WebUI
 2. Navigate to Settings>Blocklist
 3. Scroll down and copy the Lists from below that you would like to use:
+4. Go to the [Primary Whitelist](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Whitelists/Primary%20Whitelist.txt) and simply copy all of the Domains and paste them in the Whitelist section of your Pi-hole.
 ```
 List 1: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt
 List 2: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt
