@@ -13,11 +13,13 @@ List 1: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists
 List 2: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt
 List 3: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt
 List 4: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt
+List 5: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Supplemental%20Blocklist.txt
 ```
 - [List 1:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Primary%20Blocklist.txt) (1,057,808 Individual domains blocked) Contains domains from WaLLy3K over at https://firebog.net. All of these Domains are considered least likely to interfere with browsing.
 - [List 2:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Extended%20Primary%20Blocklist.txt) (406,371 Individual domains blocked) Contains domains from WaLLy3K over at https://firebog.net. These domains are likely to block multiple useful sites (e.g: Pi-hole updates, Amazon, Netflix). Please note that this can interfere with many normal, non-ad related features on devices. (For advance users)
 - [List 3:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Secondary%20Blocklist.txt) (1,339,180 Individual domains blocked) Contains domains gathered from The Blocklist Project (includes lists from: ads, fraud, fakenews, malware, phishing, porn, ransomware, redirect, scam, spam, and tracking)
-- [List 4:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt) (682,029 Individual domains blocked) Contains other domains gathered from various locations and through personal trial and error. These block things including Malware, Phising, Tracking, and Ads.
+- [List 4:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Tertiary%20Blocklist.txt) (682,029 Individual domains blocked) Contains other domains gathered from various locations and through personal trial and error. These block things including Malware, Phishing, Tracking, and Ads.
+- [List 5:](https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists/Supplemental%20Blocklist.txt) (TBD Individual domains blocked) This is a list of domains that I have found intrusive and/or of additional ad-serving domains that have been missed in the other lists found above. (Please note this is currently a short, slowly growing list so it is not vital and may or may not impact much of anything.)
 ---
 
 ## To Do
@@ -27,11 +29,12 @@ List 4: https://raw.githubusercontent.com/nicholasb2101/PiHole/master/Blocklists
 - [x] Primary Whitelist
 - [x] Secondary Blocklist (List 3)
 - [x] Tertiary Blocklist (List 4)
+- [ ] Supplemental Blocklist (List 5)
 - [ ] User requested lists
 
 ---
 
-### Notes
+### DISCLAIMER
 
 **I AM NOT RESPONSIBLE FOR ANY NETWORK CONNECTIVITY ISSUES AS A RESULT OF USING THE ABOVE MENTIONED LISTS, USE AT YOUR OWN RISK**
 
